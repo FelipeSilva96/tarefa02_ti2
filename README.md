@@ -1,1 +1,3 @@
-# tarefa02_ti2
+Este projeto é uma evolução da primeira tarefa.Antes o foco era apenas testar o ambiente Java e a subida para o GitHub, agora o objetivo foi trabalhar com persistência de dados real utilizando o SGBD PostgreSQL.
+
+A ideia seguiu a mesma linha: manter a simplicidade para garantir que a configuração estivesse correta, mas já aplicando o padrão DAO (Data Access Object) para organizar o acesso ao banco.
